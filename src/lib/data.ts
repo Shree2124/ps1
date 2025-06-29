@@ -89,6 +89,81 @@ export const featuredDestinations = [
   },
 ]
 
+export const categories = [
+  {
+    id: "1",
+    name: "Beachfront",
+    icon: "🏖️",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+  },
+  {
+    id: "2",
+    name: "Mountains",
+    icon: "🏔️",
+    image: "https://images.unsplash.com/photo-1464822759844-d150baec0494?w=400&h=300&fit=crop",
+  },
+  {
+    id: "3",
+    name: "City",
+    icon: "🏙️",
+    image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop",
+  },
+  {
+    id: "4",
+    name: "Countryside",
+    icon: "🌾",
+    image: "https://images.unsplash.com/photo-1464822759844-d150baec0494?w=400&h=300&fit=crop",
+  },
+  {
+    id: "5",
+    name: "Desert",
+    icon: "🏜️",
+    image: "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=400&h=300&fit=crop",
+  },
+  {
+    id: "6",
+    name: "Islands",
+    icon: "🏝️",
+    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400&h=300&fit=crop",
+  },
+  {
+    id: "7",
+    name: "Forest",
+    icon: "🌲",
+    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop",
+  },
+  {
+    id: "8",
+    name: "Lake",
+    icon: "🏞️",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+  },
+  {
+    id: "9",
+    name: "Ski",
+    icon: "⛷️",
+    image: "https://images.unsplash.com/photo-1551524164-6cf2ac8d0bf9?w=400&h=300&fit=crop",
+  },
+  {
+    id: "10",
+    name: "Tropical",
+    icon: "🌴",
+    image: "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=400&h=300&fit=crop",
+  },
+  {
+    id: "11",
+    name: "Historic",
+    icon: "🏛️",
+    image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=400&h=300&fit=crop",
+  },
+  {
+    id: "12",
+    name: "Unique",
+    icon: "✨",
+    image: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&h=300&fit=crop",
+  },
+]
+
 export const propertyTypes = [
   {
     id: "1",
